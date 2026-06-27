@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# Java / Maven
+target/
+*.class
+
+# Environment variables
+.env
+.env.*
+
+# Mac
+.DS_Store

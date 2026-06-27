@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../atelier-ayyur"
+		},
+		{
+			"path": "../ayyur-backend"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
